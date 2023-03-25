@@ -224,6 +224,19 @@ font-weight: bolder ;
   width: 250px;
   height: 250px;
 }
+job-info2{
+  display: flex;
+  justify-content: center;
+}
+.job-info2 spam{
+  text-align: center;
+  
+}
+.btn-container{
+  color: #222;
+  text-decoration: none;
+
+}
 
 }
 
