@@ -164,10 +164,9 @@ export default function Home() {
             <spam> React Native </spam>
             <spam>Wordpress </spam>
             <spam>React Hooks</spam>
-            <spam>HTML</spam>
             <spam>Context Api</spam>
             <spam>React Hooks</spam>
-            <spam>linux</spam>
+            <spam>Linux</spam>
             <spam>Responsividade</spam>
             <spam>Redux</spam>
             <spam>Node.Js</spam>
